@@ -1,4 +1,6 @@
-### Hey!
+### Hey there! :penguin:
+
+Welp... this is awkward... I did not know what to put here :monkey: so... here's some Kotlin
 
 ```kotlin
 val sierisimo = GitHubUser(
