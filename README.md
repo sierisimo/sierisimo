@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hey!
+
+```kotlin
+val sierisimo = GitHubUser(
+   name = "Sier",
+   handle = GitHubHandle("Sierisimo"),
+   otherHandles = everywhereAs("@sierisimo"),
+   location = Locations.Mexico,
+   expertise = listOf(Tech.ANDROID, Tech.GRADLE),
+   langs = listOf(Lang.Kotlin, Lang.Java),
+   intereted = listOf(Lang.Haskell, Lang.Rust)
+)
+``` 
 
 <!--
 **sierisimo/sierisimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
